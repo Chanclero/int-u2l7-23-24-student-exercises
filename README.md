@@ -1,4 +1,4 @@
-# Lesson 2.7: Making Tech Accessible
+n# Lesson 2.7: Making Tech Accessible
 
 ## 🎯 Objectives
 
